@@ -1,0 +1,4 @@
+név:
+szak:
+neptun-kód:
+nem:
