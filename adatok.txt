@@ -1,4 +1,4 @@
 név: Boda I. Roland
 szak: asd
-neptun-kód: asd
+neptun-kód: asd232323
 nem: férfi
